@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=red&height=200&section=header&text=Aries&fontSize=90&fontColor=52E4DC&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=red&height=200&section=header&text=Aries GitHub&desc= I'm junior developer&fontSize=90&fontColor=AD19EC&animation=blinking&descAlign=20" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhj1992&count_bg=%23DAAFDD&title_bg=%23DBD4D4&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
 
@@ -26,10 +26,10 @@
 
 <img src="https://img.shields.io/badge/Github-181717? style=flat-square&logo=Github&logoColor=white"/>
 
-### Most Used Langauages
+## Most Used Langauages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhj1992)](https://github.com/hhj1992/github-readme-stats)
 
-### GitHub Stats
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhj1992)](https://github.com/hhj1992/github-readme-stats)
