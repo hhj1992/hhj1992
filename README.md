@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=red&height=200&section=header&text=Aries&fontSize=90&fontColor=52E4DC&animation=blink" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhj1992&count_bg=%23DAAFDD&title_bg=%23DBD4D4&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
 
